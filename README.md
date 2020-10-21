@@ -7,8 +7,7 @@ My chatbot takes health issue and displays the specialized doctors.
  ## Block diagram of my chatbot
 
 ## Block diagram of my chatbot
- ![Block diagram](file:///C:/Users/yagnam.jaya%20surekha/Downloads/Blank%20diagram.pdf)
+ ![Block diagram](https://github.com/18pa1a05h2/Emergency-chatbot/blob/main/Blank%20diagram.pdf)
 
- ## Youtube video link
 ## Youtube video link
  [![youtube video link](https://img.youtube.com/vi/Y647JGv1Zn4/0.jpg)](https://www.youtube.com/watch?v=Y647JGv1Zn4)
