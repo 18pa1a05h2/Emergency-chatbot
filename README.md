@@ -7,7 +7,7 @@ My chatbot takes health issue and displays the specialized doctors.
  ## Block diagram of my chatbot
 
 ## Block diagram of my chatbot
- ![Block diagram](https://raw.githubusercontent.com/18pa1a05h2/MLchatbot/main/chatbotpic.png)
+ ![Block diagram](file:///C:/Users/yagnam.jaya%20surekha/Downloads/Blank%20diagram.pdf)
 
  ## Youtube video link
 ## Youtube video link
